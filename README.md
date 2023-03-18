@@ -1,3 +1,5 @@
-# PortfolioApp
-just a mini jetpack project for beginners to understand concepts like state management, layout like ROW, COLUMNS, BOX and Common Views like text and Images
- <img  alt="GIF" src="Resources/app_preview.jpg">
+# PortfolioApp #
+<p>The goal of this project is to introduce beginners to concepts like state management, and layouts such as ROW, COLUMNS, and BOXes. </p>
+<br/>
+<br/>
+ <img  align="center" height="600" width="280" alt="preview image" src="Resources/app_preview.jpg" height>
